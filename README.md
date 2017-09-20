@@ -1,5 +1,5 @@
 # pytorch_schooling
-##Zonal schooling with GPU pytorch optimization and color infection
+## Zonal schooling with GPU pytorch optimization and color infection
 
 Click on the image below to watch a video of the simulation running with 60,000 individuals.
 
