@@ -52,6 +52,7 @@ class Individual:
         self.ko = ko
         self.ka = ka
         self.state = state
+        self.same = False
         
 
 
